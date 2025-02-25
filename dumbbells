@@ -1,0 +1,7 @@
+from worlds import *
+from pets import *
+available_dumbbells = {}
+
+if world = "Animalia":
+    available_dumbbells = {10k : 500, 100k : 5k, 500k : 20k, 1000k : 50k}
+def
